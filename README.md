@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Yandex monitoring CPU utilization](https://github.com/luxlavel/gitlab-hw/blob/main/Screenshot-Yandex%20Monitoring-HW.PNG)`
 
 
 ---
