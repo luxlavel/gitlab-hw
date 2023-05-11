@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`8-03-Monitoring`" - `Lobakin Pavel`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -40,10 +40,7 @@
 ....
 ....
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-![Yandex monitoring CPU utilization](https://github.com/luxlavel/gitlab-hw/blob/main/Screenshot-Yandex%20Monitoring-HW.PNG)`
-
+![Yandex monitoring CPU utilization](https://github.com/luxlavel/gitlab-hw/blob/main/Screenshot-Yandex%20Monitoring-HW.PNG)
 
 ---
 
